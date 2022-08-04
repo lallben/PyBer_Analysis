@@ -25,10 +25,21 @@ Using Python and knowledge of Pandas, we need to create a summary DataFrame of t
 Finally, submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 ## Analysis Visualizations:
 ### Overview of the Ride Sharing Data
-![PyBer Ride Sharing Data](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/Fig1.png)<br>
-### Distribution of Riders by City Types
-![Rider Count](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/ridecount_box&whisker.png)<br>
-### Distribution of Fares collected by City Types
-![Rider Fare](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/ridefare_box&whisker.png)<br>
-### Distribution of Drivers by City Types
-![Driver Count](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/drivercount_box&whisker.png)<br>
+![PyBer Ride Sharing Data](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/Fig1.png)
+### Distribution of Riders by City Type
+![Rider Count](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/ridecount_box&whisker.png)
+
+### Distribution of Fares collected by City Type
+![Rider Fare](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/ridefare_box&whisker.png)
+
+### Distribution of Drivers by City Type
+![Driver Count](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/drivercount_box&whisker.png)
+
+### Percentage of Rides across City Types
+![Rider Count Pie](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/piechart_rides.png)
+
+### Percentage of Fares Collected across City Types
+![Rider Fare Pie](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/piechart_fares.png)
+
+### Percentage of Drivers across City Types
+![Driver Count Pie](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/piechart_drivers.png)
