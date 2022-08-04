@@ -28,18 +28,25 @@ Finally, submit a written report that summarizes how the data differs by city ty
 ![PyBer Ride Sharing Data](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 ### Distribution of Riders by City Type
 ![Rider Count](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/ridecount_box&whisker.png)
-
 ### Distribution of Fares collected by City Type
 ![Rider Fare](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/ridefare_box&whisker.png)
-
 ### Distribution of Drivers by City Type
 ![Driver Count](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/drivercount_box&whisker.png)
-
 ### Percentage of Rides across City Types
 ![Rider Count Pie](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/piechart_rides.png)
-
 ### Percentage of Fares Collected across City Types
 ![Rider Fare Pie](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/piechart_fares.png)
-
 ### Percentage of Drivers across City Types
 ![Driver Count Pie](https://github.com/lallben/PyBer_Analysis/blob/main/Analysis/piechart_drivers.png)
+## Observations:
+- The Bubble Chart of the whole data shows quite clearly that the largest concentration of Rides and the Driver Counts are in the Urban City Type. However, the Fares charged are higher in the Rural City Type where the # of rides are considerably lower.
+- The purpose of the Box & Whisker Charts is show the distribution of the data across the population and they show that:<br> 
+<i>The average Fares charged in the Urban Areas are approx $25 per ride whereas those in the Rural areas are between $35-$40 per ride.<br>
+The average rides in the Urban City Type are 24 as compared to 6 in the Rural City Type.</i>
+- The Pie Chart that show the ditribution of the market share across the City Types, reflect that the Urban City Type is by far the leader in Fares collected, # of Drivers as well as the # of Rides
+
+## Recommendations:
+Based on the analysis of the data I would like to make the following recommendations:
+- The Fares for the Urban City Type need to be adjusted upwards to bring the average Fares to approx. $30 per ride. Since the # of rides are already high and will continue to be that way, it makes more sense to bump up the Revenue. Even a small increase will have a significant psoitive impact on the Revenue without any affect on the ridership. 
+- The Fares for the Rural City Type need to be adjusted downward to bring the average Fares closer to $30 oer ride. This will encourage more ridership in that area which is possibly lower due to the higher fares. The downward adjustment of Fares will not have a signifiacnt impact on the Revenue considering the ridership distributions. In fact this may result in an increase in ridership which will supplement the Revenue.
+- 
